@@ -8,11 +8,11 @@
 ____________________________________________________________________
 
 ###  ABOUT ME 👩🏽
-- 🎓  &nbsp;Currently pursuing a Bachelors of Science in Computer Science at Sacramento State University
-- 🔭  &nbsp;Looking for new opportunities to use my knowledge in tech
-- 📓  &nbsp;Learning more about full-stack development and software engineering.
-- 👯  &nbsp;Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State
-- 🖤  &nbsp; Enjoys fashion blogging in my spare time
+ 🎓  &nbsp;Currently pursuing a Bachelors of Science in Computer Science at Sacramento State University.<br>
+ 🔭  &nbsp;Looking for new opportunities to use my knowledge in tech.<br>
+📓  &nbsp;Learning more about full-stack development and software engineering.<br>
+ 👯  &nbsp;Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State.<br>
+ 🖤  &nbsp; Enjoys fashion blogging in my spare time
 
 ____________________________________________________________________
 
@@ -25,14 +25,16 @@ ____________________________________________________________________
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/zahreafranklin/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/zahreafranklin/)
 
-
+<center>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahreafranklin)](https://github.com/zahreafranklin/github-readme-stats)
+</center>
 
 <h4>Frameworks:</h4>
 
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/zahreafranklin/)
-
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/zahreafranklin/)
-
+____________________________________________________________________
 ### Stats 📈
+<center>
 [![Zahrea's github stats](https://github-readme-stats.vercel.app/api?username=zahreafranklin&show_icons=true&theme=graywhite)](https://github.com/zahreafranklin/github-readme-stats)
+</center>
