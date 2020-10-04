@@ -25,9 +25,8 @@ ____________________________________________________________________
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/zahreafranklin/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/zahreafranklin/)
 
-<center>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahreafranklin)](https://github.com/zahreafranklin/github-readme-stats)
-</center>
+
 
 <h4>Frameworks:</h4>
 
@@ -35,6 +34,5 @@ ____________________________________________________________________
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/zahreafranklin/)
 ____________________________________________________________________
 ### Stats 📈
-<center>
+
 [![Zahrea's github stats](https://github-readme-stats.vercel.app/api?username=zahreafranklin&show_icons=true&theme=graywhite)](https://github.com/zahreafranklin/github-readme-stats)
-</center>
