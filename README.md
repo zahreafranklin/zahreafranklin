@@ -12,11 +12,11 @@
 
 ____________________________________________________________________
 
-### About Me 👩🏽 
+### About Me 👩🏽
 - 🎓 Currently pursuing a Bachelors of Science in Computer Science at Sacramento State University
 - 🔭 Looking for new opportunities to use my knowledge in tech
 - 📓 Learning more about full-stack development and software engineering.
-- 👯 Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State  
+- 👯 Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State
 - 🖤 Enjoys fashion blogging in my spare time
 
 ____________________________________________________________________
