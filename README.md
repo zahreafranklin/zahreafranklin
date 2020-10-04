@@ -8,27 +8,29 @@
 ____________________________________________________________________
 
 ###  ABOUT ME 👩🏽
-- 🎓  Currently pursuing a Bachelors of Science in Computer Science at Sacramento State University
-- 🔭  Looking for new opportunities to use my knowledge in tech
-- 📓  Learning more about full-stack development and software engineering.
-- 👯  Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State
-- 🖤  Enjoys fashion blogging in my spare time
+- 🎓  &nbsp;Currently pursuing a Bachelors of Science in Computer Science at Sacramento State University
+- 🔭  &nbsp;Looking for new opportunities to use my knowledge in tech
+- 📓  &nbsp;Learning more about full-stack development and software engineering.
+- 👯  &nbsp;Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State
+- 🖤  &nbsp; Enjoys fashion blogging in my spare time
 
 ____________________________________________________________________
 
 ### SKILLS 🔧 ⚙️
-<h4>Programming Languages</h4>
+<h4>Programming Languages:</h4>
 
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white%22)](https://github.com/zahreafranklin/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zahreafranklin/)
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/zahreafranklin/)
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/zahreafranklin/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/zahreafranklin/)
-<center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahreafranklin)](https://github.com/zahreafranklin/github-readme-stats)
-</center>
-<h4>Frameworks</h4>
-[![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/zahreafranklin/)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahreafranklin)](https://github.com/zahreafranklin/github-readme-stats)
+
+<h4>Frameworks:</h4>
+
+[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/zahreafranklin/)
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/zahreafranklin/)
 
