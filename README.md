@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahrea-franklin/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zahrea.franklin@gmail.com)](mailto:zahrea.franklin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zahrea.franklin@gmail.com)
 
 
 ____________________________________________________________________
