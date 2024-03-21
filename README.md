@@ -8,10 +8,10 @@
 ____________________________________________________________________
 
 ###  ABOUT ME 👩🏽
- 🎓  &nbsp;Currently pursuing a Bachelors of Science in Computer Science at Sacramento State University.<br>
+ 🎓  &nbsp;Gained a Bachelors of Science in Computer Science from California State University, Sacramento.<br>
  🔭  &nbsp;Looking for new opportunities to use my knowledge in tech.<br>
 📓  &nbsp;Learning more about full-stack development and software engineering.<br>
- 👯  &nbsp;Member of: Rewriting the Code, National Society of Black Engineers at Sac State and Society of Women Engineers at Sac State.<br>
+ 👯  &nbsp;Member of: Rewriting the Code.<br>
  🖤  &nbsp; Enjoys fashion blogging in my spare time
 
 ____________________________________________________________________
